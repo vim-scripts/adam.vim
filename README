@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=912
+
+Not being totally satisfied with other color schemes out there, I created my own scheme.
+
+It has a dark blue-grey background and uses a diverse set of attractive and constracting colors for foreground text.
+
+I use it largely for Java and XSL development although I'm also quite content with how C++ and ASP code looks in it too.
+
+The only draw back to this color scheme is that while on a CRT monitor the colors appear quite clear and constrasting, the contrast dies out a bit on my laptop's screen. (For use on laptop screens, I would recommend making the background black.)
